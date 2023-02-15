@@ -1,0 +1,15 @@
+/Users/olgabazulina/Desktop/Task2/zadanie/bin/Debug/net6.0/zadanie
+/Users/olgabazulina/Desktop/Task2/zadanie/bin/Debug/net6.0/zadanie.deps.json
+/Users/olgabazulina/Desktop/Task2/zadanie/bin/Debug/net6.0/zadanie.runtimeconfig.json
+/Users/olgabazulina/Desktop/Task2/zadanie/bin/Debug/net6.0/zadanie.dll
+/Users/olgabazulina/Desktop/Task2/zadanie/bin/Debug/net6.0/zadanie.pdb
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.csproj.AssemblyReference.cache
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.AssemblyInfoInputs.cache
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.AssemblyInfo.cs
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.csproj.CoreCompileInputs.cache
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.dll
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/refint/zadanie.dll
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.pdb
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/zadanie.genruntimeconfig.cache
+/Users/olgabazulina/Desktop/Task2/zadanie/obj/Debug/net6.0/ref/zadanie.dll
